@@ -1,4 +1,4 @@
-# StarLight.Core 核心文档
+# StarLight.Core 文档
 
 ## FastRing 快速更新版本
 
